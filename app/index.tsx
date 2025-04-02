@@ -18,7 +18,7 @@ export default function StartPage() {
     <View className="flex-1 justify-center items-center bg-white">
       {/* Starter Image */}
       <Image 
-        source={require('../assets/images/download.jpeg')}  // Replace with your image path
+        source={require('../assets/images/start.jpeg')}  // Replace with your image path
         className="w-40 h-40 mb-4"  // Adjust size as needed
         resizeMode="contain"
       />
